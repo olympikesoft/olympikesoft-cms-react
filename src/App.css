@@ -1,0 +1,82 @@
+/* .App {
+  text-align: center;
+} */
+
+
+/* .appbar {
+  background-color: green;
+} */
+
+
+body {
+  font-family: 'Roboto';
+}
+
+/* Left nav links */
+
+
+.appbar-nav-left {
+  list-style: none;
+  display: inline-block;
+  padding-top: 25px;
+  color: white;
+}
+
+.appbar-nav-left-link {
+  display: inline;
+  text-align: left;
+  margin-left: -28px;
+}
+
+.appbar-nav-left a {
+  text-decoration: none;
+  color: white;
+}
+
+/* END left nav links */
+
+/* Right navv links */
+
+.appbar-nav-right {
+  list-style: none;
+  text-align: right;
+  display: inline-block;
+  float: right;
+  padding-top: 25px;
+  color: white;
+}
+
+.appbar-nav-right-link {
+  display: inline;
+  padding-right: 12px;
+}
+
+.appbar-nav-right a {
+  text-decoration: none;
+  color: white;
+}
+
+
+/* END Right navv links */
+
+
+
+.hero {
+  width: 100%;
+  background-color: #444444;
+  height: 512px;
+  text-align: right;
+}
+
+.hero-headline {
+  margin-bottom: 25px;
+  padding-top: 96px;
+}
+
+.hero-headline-description {
+  margin-bottom: 25px;
+}
+
+.hero-headline, .hero-headline-description, .hero-button-primary {
+  margin-right: 25px;
+}
